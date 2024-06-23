@@ -1,5 +1,5 @@
 {
-  "name": "vehicleTrackerApp",
+  "name": "vehicletrackerapp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -36,5 +36,17 @@
   "engines": {
     "node": ">=18"
   },
-  "packageManager": "yarn@3.6.4"
+  "packageManager": "yarn@3.6.4",
+  "description": "This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://irfan555: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@github.com/irfan555/vehicle-tracking-mobile.git"
+  },
+  "author": "irfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfan555/vehicle-tracking-mobile/issues"
+  },
+  "homepage": "https://github.com/irfan555/vehicle-tracking-mobile#readme"
 }
