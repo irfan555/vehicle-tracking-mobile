@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file that includes installation instructions and some logical structure for a React Native application:
-
----
-
 # React Native Vehicle Tracker App
 
 This is a React Native application for tracking vehicle locations using Google Pub/Sub.
